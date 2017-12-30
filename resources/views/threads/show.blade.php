@@ -37,7 +37,7 @@
                 <button type="submit" class="btn btn-default">Post</button>
             </form>
             @else
-            <p class="text-center">Please <a href="{{ route('login') }}">Sign Inff</a> to perticipate in this discussion
+            <p class="text-center">Please <a href="{{ route('login') }}">Sign I</a> to perticipate in this discussion
             </p>
             @endif
         </div>
